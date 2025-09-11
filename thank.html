@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Thank You for Reading</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      background-color: #001f4d;
+      font-family: 'Playfair Display', serif;
+      color: white;
+      line-height: 1.6;
+    }
+    .page-wrapper {
+      max-width: 1200px;
+      margin: 40px auto;
+      padding: 40px;
+      border: 12px solid white;
+      box-sizing: border-box;
+    }
+    h1 {
+      text-align: center;
+      font-size: 48px;
+      margin-bottom: 30px;
+    }
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 20px;
+    }
+    .gallery img {
+      width: 100%;
+      height: 250px;
+      object-fit: cover;
+      border-radius: 8px;
+      box-shadow: 0 4px 10px rgba(255,255,255,0.3);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    .gallery img:hover {
+      transform: scale(1.05);
+      box-shadow: 0 6px 14px rgba(255,255,255,0.4);
+    }
+    p {
+      text-align: center;
+      margin-top: 30px;
+      font-size: 22px;
+    }
+    a {
+      color: white;
+      text-decoration: underline;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="page-wrapper">
+    <h1>Thank You for Reading</h1>
+    <div class="gallery">
+      <img src="in17.jpg" alt="Indie Dog 17">
+      <img src="in18.jpg" alt="Indie Dog 18">
+      <img src="in19.jpg" alt="Indie Dog 19">
+      <img src="in20.jpg" alt="Indie Dog 20">
+      <img src="in21.jpg" alt="Indie Dog 21">
+      <img src="in22.jpg" alt="Indie Dog 22">
+      <img src="in23.jpg" alt="Indie Dog 23">
+      <img src="in24.jpg" alt="Indie Dog 24">
+      <img src="in25.jpg" alt="Indie Dog 25">
+      <img src="in26.jpg" alt="Indie Dog 26">
+      <img src="in27.jpg" alt="Indie Dog 27">
+      <img src="in28.jpg" alt="Indie Dog 28">
+    </div>
+    <p>Every Indie dog you see here represents resilience, loyalty, and love. Thank you for caring about them and for making a difference.</p>
+    <p><a href="index.html">← Back to Home</a></p>
+  </div>
+
+</body>
+</html>
