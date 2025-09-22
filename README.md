@@ -18,10 +18,10 @@ Thank You Page: A warm closing note with a photo gallery to leave a lasting impr
 
 
 
-A Note from the Sri(creator)
+While making this project i was sitting in balcony watching over 5 puppies playing,biting and tripping over.They literally looks like cute meat balls rolling down the street.
+I always wanted to have one but cannot because of my mother.The hypocrisy is that she herself had three dogs when she was younger.
 
-This project isn’t just a website—it’s a call for empathy. Indie dogs are not strays; they are a part of us, our streets, and our shared history. Through this site, I hope to inspire compassion, kindness, and action. By caring for Indies, we protect not only these gentle beings but also the values of humanity.
-
+This site is not just to give you information about the court orders but to also encourage and teach you that they also deserve love as a living being.No one in this world is worthy of any hate without any reason,that's how our gods made us.
 
 
 
